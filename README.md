@@ -16,4 +16,4 @@ Analyze Netflix dataset to identify trends and patterns.
 - TV-MA and TV-14 are common ratings
 
 ## 🔗 Project Links
-- Colab Notebook: (paste your colab link here)
+- Colab Notebook: https://colab.research.google.com/drive/1Htw9VMbocEiWdxvzasHVzZM2nr_wivSs?usp=sharing
